@@ -2,6 +2,12 @@
 
 This repository is a runnable learning environment for **Isabell Korto**.
 
+## Prerequisites
+
+- .NET 10 SDK
+- Node.js 20 or newer
+- npm
+
 ## Your responsibility
 
 - **Task 3:** writing and coding data access with Entity Framework Core and SQLite.
